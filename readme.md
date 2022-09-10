@@ -1,0 +1,3 @@
+During the React Portfolio challenge, I had the opportunity to learn about React and how it functions with JS. I am currently learning how to build more complex websites with UI interfaces. During this challenge I had reach out to some peers for clarification and rewatching lectures was able to help me guide through parts of this challenge so far. I am still working on the website, but wanted to get wha I could down as the end of the course is nearing.  I have attached my repository for your reference. 
+
+Github Repository: https://github.com/colinale/react-portfolio
